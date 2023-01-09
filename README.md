@@ -9,11 +9,11 @@
 <h2>Languages</h2>
 <code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></a></code>
 <code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></a></code>
-<code><a href=""><img height="40" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></a></code>
+<code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/512px-C_Sharp_wordmark.svg.png?20190414011151"></a></code>
 <code><a href=""><img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></a></code>
 <code><a href=""><img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"></a></code>
 <code><a href=""><img height="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></a></code>
-<code><a href=""><img height="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"></a></code>
+<code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a></code>
 <!--- <code><a href=""><img height="40" src=""></a></code> --->
 
 <h2>Tools</h2>
