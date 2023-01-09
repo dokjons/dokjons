@@ -5,8 +5,24 @@
 - 👋 Hi, I’m @dokjons
 - 👀 I’m interested in the magic world of AI, Linux & much more.
 - 🌱 I’m currently learning as much as i can, because you learn everyday.
+
 <h2>Languages</h2>
-<code><a href="https://www.jetbrains.com/pycharm/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png">PyCharm</a></code>
+<code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></a></code>
+<code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></a></code>
+<code><a href=""><img height="40" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></a></code>
+<code><a href=""><img height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></a></code>
+<code><a href=""><img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png"></a></code>
+<code><a href=""><img height="40" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></a></code>
+<code><a href=""><img height="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"></a></code>
+<!--- <code><a href=""><img height="40" src=""></a></code> --->
+
+<h2>Tools</h2>
+<code><a href="https://www.jetbrains.com/pycharm/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></a></code>
+<code><a href="https://www.jetbrains.com/idea/"><img height="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></a></code>
+<code><a href="https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
+<code><a href="https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"></a></code>
+
+
 
 <!---
 dokjons/dokjons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
