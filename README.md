@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning as much as i can, because you learn everyday.
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=dokjons&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/dokjons)
+[![Github](https://img.shields.io/badge/-dokjons-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/dokjons)
 
 <h2>Languages</h2>
 <code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></a></code>
