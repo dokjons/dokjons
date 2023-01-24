@@ -25,7 +25,13 @@
 <code><a href="https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href="https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"></a></code>
 
-
+<h2>Education</h2>
+<ul>
+  <li>IT-Supporter</li>
+  <li>Webdesigner</li>
+  <li>Web Developer</li>
+  <li>Ethical Hacker - <i>"Self Taught"</i></li>
+</ul>
 
 <!---
 dokjons/dokjons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
