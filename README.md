@@ -30,7 +30,7 @@
   <li>IT-Supporter</li>
   <li>Webdesigner</li>
   <li>Web Developer</li>
-  <li>Ethical Hacker - <i>"Self Taught"</i></li>
+  <li>Ethical Hacker</li>
 </ul>
 
 <!---
