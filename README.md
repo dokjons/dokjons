@@ -29,7 +29,7 @@
 <h2>Education</h2>
 <ul>
   <li>IT-Supporter</li>
-  <li>Webdesigner</li>
+  <li>Web designer</li>
   <li>Web Developer</li>
   <li>Ethical Hacker</li>
 </ul>
