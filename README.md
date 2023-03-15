@@ -34,6 +34,7 @@
   <li>Web designer</li>
   <li>Web Developer</li>
   <li>Ethical Hacker</li>
+  <li>AI Developer</li>
 </ul>
 
 <!---
