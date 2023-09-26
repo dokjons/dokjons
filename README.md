@@ -18,6 +18,7 @@
 <code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"></a></code>
 <code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a></code>
 <code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"></a></code>
+<code><a href=""><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png"></a></code>
 <!--- <code><a href=""><img height="40" src=""></a></code> --->
 
 <h2>Tools</h2>
